@@ -29,3 +29,7 @@ textarea {
 	font-family: monospace;
 	font-size: 12pt;
 }
+
+#malkovitch,#pigLatin, #checkBox{
+	margin-top: 10px;
+}
